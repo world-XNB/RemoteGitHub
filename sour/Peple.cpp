@@ -1,7 +1,7 @@
 //
 // Created by xinanbei on 2022/11/15.
 //
-#include "../inc/peple.h"
+#include "../inc/Peple.h"
 
 Peple::Peple() {
     this->name = "xiaoming";

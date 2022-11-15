@@ -1,10 +1,15 @@
 # ninja log v5
 1	583	6901790215843729	CMakeFiles/Local_Github.dir/main.cpp.obj	c129118ea6a82b0b
-821	1083	6901849534628512	Local_Github.exe	e651956b09d82e5d
-2	349	6901856639954324	build.ninja	a0565ede3b6dcfdb
-8	820	6901849532019799	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
+788	1077	6902064964224889	Local_Github.exe	fbcf492c778e191a
+2	378	6902066849665536	build.ninja	a0565ede3b6dcfdb
+7	787	6902064961436295	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
 30	1099	6901859875257959	CMakeFiles/Local_Github.dir/sour/peple.cpp.obj	36635a79bed3b5a3
-10	1126	6901859875530942	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
-1126	1371	6901859877901117	Local_Github.exe	fbcf492c778e191a
-9	1145	6901883405407299	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
-1149	1451	6901883408374485	Local_Github.exe	fbcf492c778e191a
+8	98	6902055983196957	CMakeFiles/Local_Github.dir/sour/Array.cpp.obj	cd78dd66f566649f
+1	327	6902066849665536	build.ninja	a0565ede3b6dcfdb
+5	607	6902066856129527	CMakeFiles/Local_Github.dir/sour/Peple.cpp.obj	bd15aa359c2ac58a
+15	650	6902066856554846	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
+650	879	6902066858761391	Local_Github.exe	b1a767291b9fa910
+6	650	6902068112275572	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
+651	922	6902068114931592	Local_Github.exe	b1a767291b9fa910
+7	639	6902068457966506	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
+640	906	6902068460530188	Local_Github.exe	b1a767291b9fa910
