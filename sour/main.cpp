@@ -5,6 +5,7 @@
 #include "../inc/Peple.h"
 #include "../inc/Array.h"
 
+
 //调试Peple类的函数
 int pepleFun() {
     Peple *p = new Peple;
@@ -81,12 +82,11 @@ int algorithmFun() {
     }
 }
 
+
 int main() {
 //    pepleFun();
 //    arrayFun();
 //    vectorFun();
 //    algorithmFun();
-    const int a = 0;
-    const int *b = &a;
     return 0;
 }

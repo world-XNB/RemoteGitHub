@@ -30,3 +30,12 @@ Get familiar with git and GitHub
     - 类模板定义对象写法
     - 虚拟函数、纯虚函数
     - 操作符重载
+
+
+3. String相关笔记
+    - 函数重载
+    - 缺省构造函数、拷贝构造函数
+    - 操作符重载
+        + 形式：return_type operator op (parameter_list);
+        + 例如：char& operator[](int);
+    - 当类的声明和定义分别在两个文件中时，explicit只能写在在声明中，不能写在定义中。
