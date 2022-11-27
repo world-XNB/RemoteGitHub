@@ -47,6 +47,7 @@ public:
         return _string;
     }
 
+
 private:
     int _size;
     char *_string;

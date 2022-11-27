@@ -4,7 +4,7 @@
 
 #include "../inc/Peple.h"
 #include "../inc/Array.h"
-
+#include "../inc/Stack.h"
 
 //调试Peple类的函数
 int pepleFun() {
@@ -82,11 +82,29 @@ int algorithmFun() {
     }
 }
 
+void stackFun() {
+    iStack stack(32);
+
+    stack.display();
+    for (int i = 0; i < 51; ++i) {
+        if (i % 2 == 0)
+            stack.push(i);
+        if (i % 5 == 0)
+            stack.display();
+        if (i % 10 == 0) {
+            int dummy;
+            stack.pop(dummy);
+            stack.pop(dummy);
+            stack.display();
+        }
+    }
+}
 
 int main() {
 //    pepleFun();
 //    arrayFun();
 //    vectorFun();
 //    algorithmFun();
+    stackFun();
     return 0;
 }

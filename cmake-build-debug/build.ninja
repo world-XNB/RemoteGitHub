@@ -67,6 +67,12 @@ build CMakeFiles/Local_Github.dir/sour/String.cpp.obj: CXX_COMPILER__Local_Githu
   OBJECT_DIR = CMakeFiles\Local_Github.dir
   OBJECT_FILE_DIR = CMakeFiles\Local_Github.dir\sour
 
+build CMakeFiles/Local_Github.dir/sour/Stack.cpp.obj: CXX_COMPILER__Local_Github_Debug E$:/Clion_c++/Local_Github/sour/Stack.cpp || cmake_object_order_depends_target_Local_Github
+  DEP_FILE = CMakeFiles\Local_Github.dir\sour\Stack.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Local_Github.dir
+  OBJECT_FILE_DIR = CMakeFiles\Local_Github.dir\sour
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Local_Github
@@ -75,7 +81,7 @@ build CMakeFiles/Local_Github.dir/sour/String.cpp.obj: CXX_COMPILER__Local_Githu
 #############################################
 # Link the executable Local_Github.exe
 
-build Local_Github.exe: CXX_EXECUTABLE_LINKER__Local_Github_Debug CMakeFiles/Local_Github.dir/sour/main.cpp.obj CMakeFiles/Local_Github.dir/sour/Peple.cpp.obj CMakeFiles/Local_Github.dir/sour/String.cpp.obj
+build Local_Github.exe: CXX_EXECUTABLE_LINKER__Local_Github_Debug CMakeFiles/Local_Github.dir/sour/main.cpp.obj CMakeFiles/Local_Github.dir/sour/Peple.cpp.obj CMakeFiles/Local_Github.dir/sour/String.cpp.obj CMakeFiles/Local_Github.dir/sour/Stack.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Local_Github.dir

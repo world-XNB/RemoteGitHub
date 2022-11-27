@@ -66,13 +66,13 @@ String &String::operator=(const char *s) {
 }
 
 bool String::operator==(const String &rhs) {
-    if (_size != rhs._size)
+    if (this->_size != rhs._size)
         return false;
-    return strcmp(_string, rhs._string) ? false : true;
+    return strcmp(_string, rhs._string) == 0;
 }
 
 bool String::operator==(const char *s) {
-    return strcmp(_string, s) ? false : true;
+    return strcmp(_string, s) == 0;
 }
 
 char &String::operator[](int elem) {
