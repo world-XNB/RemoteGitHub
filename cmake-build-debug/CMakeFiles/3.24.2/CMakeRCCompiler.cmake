@@ -1,4 +1,4 @@
-set(CMAKE_RC_COMPILER "D:/Install/CLion 2021.3.2/bin/mingw/bin/windres.exe")
+set(CMAKE_RC_COMPILER "D:/Install/winlibs-x86_64-posix-seh-gcc-12.2.0-llvm-15.0.7-mingw-w64ucrt-10.0.0-r4/mingw64/bin/windres.exe")
 set(CMAKE_RC_COMPILER_ARG1 "")
 set(CMAKE_RC_COMPILER_LOADED 1)
 set(CMAKE_RC_SOURCE_FILE_EXTENSIONS rc;RC)

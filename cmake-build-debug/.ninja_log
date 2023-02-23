@@ -1,10 +1,17 @@
 # ninja log v5
-1	583	6901790215843729	CMakeFiles/Local_Github.dir/main.cpp.obj	c129118ea6a82b0b
 1161	1530	6912357321026989	Local_Github.exe	da17c18cef3227c8
-1	327	6913905322416419	build.ninja	a0565ede3b6dcfdb
+1	327	6970165252726237	build.ninja	a0565ede3b6dcfdb
 5	1159	6912357317396784	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	ac4fe499429fefc4
-30	1099	6901859875257959	CMakeFiles/Local_Github.dir/sour/peple.cpp.obj	36635a79bed3b5a3
-8	98	6902055983196957	CMakeFiles/Local_Github.dir/sour/Array.cpp.obj	cd78dd66f566649f
 5	607	6902066856129527	CMakeFiles/Local_Github.dir/sour/Peple.cpp.obj	bd15aa359c2ac58a
 26	1615	6912355498148171	CMakeFiles/Local_Github.dir/sour/String.cpp.obj	ea939458fc0e3779
 45	1604	6912355498068160	CMakeFiles/Local_Github.dir/sour/Stack.cpp.obj	af3b9c473afb53d3
+23	2224	6970165539718208	CMakeFiles/Local_Github.dir/sour/List.cpp.obj	ca8aded736bb884a
+9	2320	6970165540860176	CMakeFiles/Local_Github.dir/sour/Peple.cpp.obj	d09fd968c9c80ba2
+15	2362	6970165541275127	CMakeFiles/Local_Github.dir/sour/Stack.cpp.obj	2ccd233ad7951503
+33	2661	6970165544324698	CMakeFiles/Local_Github.dir/sour/String.cpp.obj	5d9dbf1ce355d855
+2	3121	6970165548904870	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	35e940ed658edb46
+3121	3368	6970165551165411	Local_Github.exe	b34fcdeeab3523f6
+6	2050	6970165757599017	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	35e940ed658edb46
+2051	2286	6970165759850872	Local_Github.exe	b34fcdeeab3523f6
+5	5375	6987722991991201	CMakeFiles/Local_Github.dir/sour/main.cpp.obj	35e940ed658edb46
+5376	6531	6987723003507588	Local_Github.exe	b34fcdeeab3523f6
