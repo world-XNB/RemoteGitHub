@@ -1,0 +1,6 @@
+"D:\Install\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" E:\Clion_c++\Local_Github
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.21 or higher is required.  You are running version 3.17.3
+
+
+-- Configuring incomplete, errors occurred!
